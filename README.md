@@ -2,6 +2,6 @@
 # Documentación del proyecto
 ## Unidad 2
 
-Estudiante:  
-ID:  
+Estudiante:  Felipe Gomez P
+ID:  000511279
 ---
